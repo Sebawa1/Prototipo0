@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: 8ba964a707c564148ab929cb4af10bcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6649571754101298421
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_0
+  - first:
+      213: -7238235690663849953
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_1
+  - first:
+      213: -1467149721124755703
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_2
+  - first:
+      213: 8660364430389427085
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_3
+  - first:
+      213: -390508180980241403
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_4
+  - first:
+      213: -8943273142305042333
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_5
+  - first:
+      213: 286253513515394918
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_6
+  - first:
+      213: -1861432319222183929
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_7
+  - first:
+      213: -7381905228095049830
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_8
+  - first:
+      213: 5687195146234646613
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_9
+  - first:
+      213: -7600914970201277973
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_10
+  - first:
+      213: 4515450856463762695
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_11
+  - first:
+      213: 8449250813769628220
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_12
+  - first:
+      213: 2235579776071162677
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_13
+  - first:
+      213: 1176565419735335315
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_14
+  - first:
+      213: 8683513178434907056
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_15
+  - first:
+      213: -2837436268037593541
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_16
+  - first:
+      213: -7028368757281111709
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_17
+  - first:
+      213: 6189947714365828244
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_18
+  - first:
+      213: 3966557389699500309
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_19
+  - first:
+      213: -501515914740796139
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_20
+  - first:
+      213: -4579906299378366890
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_21
+  - first:
+      213: -1205389194655385467
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_22
+  - first:
+      213: -3898799680221631725
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_23
+  - first:
+      213: 8029480402358247155
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_24
+  - first:
+      213: 2460171889476773465
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_25
+  - first:
+      213: 99073231189118653
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_26
+  - first:
+      213: -4365630699609847909
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_27
+  - first:
+      213: 9196513174916364526
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_28
+  - first:
+      213: 84684332298656756
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_29
+  - first:
+      213: 4511281911382193400
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_30
+  - first:
+      213: 7024159828941493503
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_31
+  - first:
+      213: 8759658828785294607
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_32
+  - first:
+      213: 949850581233532638
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_33
+  - first:
+      213: -5997437175098122338
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_34
+  - first:
+      213: -2708030183812632877
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_35
+  - first:
+      213: -7400286218744369286
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_36
+  - first:
+      213: 3348924984841685912
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_37
+  - first:
+      213: 1645290753209901717
+    second: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b225878b9f7b3a0800000000000000
+      internalID: -6649571754101298421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 248
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f105d693dfe9c8b90800000000000000
+      internalID: -7238235690663849953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 248
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907ab081a13a3abe0800000000000000
+      internalID: -1467149721124755703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 248
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b3aca909bcf2870800000000000000
+      internalID: 8660364430389427085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 248
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ce9ced0e2a49af0800000000000000
+      internalID: -390508180980241403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 248
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360dd97e57c13e380800000000000000
+      internalID: -8943273142305042333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 248
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667eacccd0af8f300800000000000000
+      internalID: 286253513515394918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708845ffa2dda26e0800000000000000
+      internalID: -1861432319222183929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 200
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fabc95e443e8990800000000000000
+      internalID: -7381905228095049830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55054ab7ad9fcee40800000000000000
+      internalID: 5687195146234646613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 200
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be934312b10248690800000000000000
+      internalID: -7600914970201277973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705814c41aa1aae30800000000000000
+      internalID: 4515450856463762695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a3bec59d4c14570800000000000000
+      internalID: 8449250813769628220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 152
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bd4c336ff560f10800000000000000
+      internalID: 2235579776071162677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391455af300045010800000000000000
+      internalID: 1176565419735335315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 152
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb29038a39028870800000000000000
+      internalID: 8683513178434907056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 152
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b362fc26fb66f98d0800000000000000
+      internalID: -2837436268037593541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 152
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3614ec76ad7367e90800000000000000
+      internalID: -7028368757281111709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 152
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c240586ac17e550800000000000000
+      internalID: 6189947714365828244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5194d322eea0c0730800000000000000
+      internalID: 3966557389699500309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 152
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5157ba4cee14a09f0800000000000000
+      internalID: -501515914740796139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 200
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6568af07c77e070c0800000000000000
+      internalID: -4579906299378366890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 200
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588b874f9e8954fe0800000000000000
+      internalID: -1205389194655385467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu_hakurei___touhou_6_sprite_sheet_by_gabrieldrawingsxd_d7e332q-fullview_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 248
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31babf9f85ea4e9c0800000000000000
+      internalID: -3898799680221631725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 033842f8f4e4b564590903b586171ed5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
